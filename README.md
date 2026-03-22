@@ -318,7 +318,7 @@ Built with 🎬 Python · Flask · BLIP · Google Speech · scikit-learn
 
 <br/>
 
-⭐ **Star this repo if you found it useful!**
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
