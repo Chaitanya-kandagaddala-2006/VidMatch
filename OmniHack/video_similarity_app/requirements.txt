@@ -1,0 +1,16 @@
+flask>=2.3.0
+openai>=1.0.0
+moviepy>=1.0.3
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+scikit-learn>=1.3.0
+numpy>=1.24.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+werkzeug>=2.3.0
+# BLIP visual analysis (auto-used when no speech is detected)
+transformers>=4.30.0
+torch>=2.0.0
+Pillow>=10.0.0
+# Optional (only needed if using Anthropic provider):
+# anthropic>=0.20.0
